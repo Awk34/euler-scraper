@@ -1,1 +1,1 @@
-# euler-scraper
+# Project Euler Web Scraper
