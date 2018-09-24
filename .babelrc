@@ -1,0 +1,15 @@
+{
+  "presets": [
+    ["env", {
+      "targets": 8.10,
+//      "modules": false,
+      "debug": true
+    }]
+  ],
+  "plugins": [
+    "transform-class-properties",
+    "transform-runtime",
+    "transform-decorators-legacy",
+    "transform-flow-comments"
+  ]
+}

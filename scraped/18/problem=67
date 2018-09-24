@@ -7,8 +7,7 @@
 <meta name="keywords" content="programming,mathematics,problems,puzzles" />
 <title>Problem 67 - Project Euler</title>
 <link rel="shortcut icon" href="favicon.ico" />
-<link rel="stylesheet" type="text/css" href="themes/default/style_default.css" />
-
+<link rel="stylesheet" type="text/css" href="themes/20180507/style_default.css" />
 <script type="text/x-mathjax-config">
    MathJax.Hub.Config({
       jax: ["input/TeX", "output/HTML-CSS"],
@@ -20,13 +19,7 @@
       "HTML-CSS": { availableFonts: ["TeX"] }
    });
 </script>
-<!--[if !IE]><!-->
-<script type="text/javascript" src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML-full,Safe"></script>
-<!--<![endif]-->
-<!--[if IE]>
-<script type="text/javascript" src="//cdn.mathjax.org/mathjax/2.4-latest/MathJax.js?config=TeX-AMS_HTML-full,Safe"></script>
-<![endif]-->
-</head>
+<script async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS_HTML-full,Safe"></script></head>
 
 <body>
 <div id="container">
@@ -45,12 +38,14 @@
 <div id="logo" class="noprint">
    <div>Project Euler<span>.net</span></div>
 </div>
+
 </div>
 
-<div id="info_panel"><a href="rss2_euler.xml"><img src="images/icon_rss.png" alt="RSS Feed" title="RSS Feed" /></a><span class="info" style="cursor:pointer;"><a href="secure=8sK3RsJKWr3mDc2V"><img src="images/icon_lock.png" alt="secure_icon" /></a><span style="color:#070;font-weight:bold;text-align:left;width:250px;right:10px;">You are currently using a secure connection</span></span></div>
+<div id="info_panel"><a href="search"><img src="images/icon_search.png" alt="Search Problems" title="Search Problems" /></a><a href="rss2_euler.xml"><img src="images/icon_rss.png" alt="RSS Feed" title="RSS Feed" /></a></div>
 <div id="content">
+
 <div style="text-align:center;" class="print"><img src="images/print_page_logo.png" alt="projecteuler.net" style="border:none;" /></div>
-<h2>Maximum path sum II</h2><div id="problem_info" class="info"><h3>Problem 67</h3><span>Published on Friday, 9th April 2004, 06:00 pm; Solved by 72201; Difficulty rating: 5%</span></div>
+<h2>Maximum path sum II</h2><div id="problem_info"><h3>Problem 67 <span style="float:right;" class="info noprint"><img src="images/icon_info.png" style="width:18px;opacity:0.7;" /><span style="left:-400px;width:450px;font-size:80%;">Published on Friday, 9th April 2004, 06:00 pm; Solved by 80967;<br />Difficulty rating: 5%</span></h3></div>
 <div class="problem_content" role="problem">
 <p>By starting at the top of the triangle below and moving to adjacent numbers on the row below, the maximum total from top to bottom is 23.</p>
 <p style="text-align:center;font-family:'courier new';font-size:12pt;"><span style="color:#ff0000;"><b>3</b></span><br /><span style="color:#ff0000;"><b>7</b></span> 4<br />

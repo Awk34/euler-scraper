@@ -1,0 +1,16 @@
+{
+  "name": "euler-scraper",
+  "version": "1.0.0",
+  "description": "Scrapes problem data from Project Euler",
+  "main": "scrape.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrew Koroluk <koroluka@gmail.com>",
+  "devDependencies": {
+    "babel-preset-env": "^1.7.0"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2"
+  }
+}

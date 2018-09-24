@@ -1,4 +1,4 @@
-Error connecting to database<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="utf-8" />
@@ -7,8 +7,7 @@ Error connecting to database<!DOCTYPE html>
 <meta name="keywords" content="programming,mathematics,problems,puzzles" />
 <title>Problem 110 - Project Euler</title>
 <link rel="shortcut icon" href="favicon.ico" />
-<link rel="stylesheet" type="text/css" href="themes/default/style_default.css" />
-
+<link rel="stylesheet" type="text/css" href="themes/20180507/style_default.css" />
 <script type="text/x-mathjax-config">
    MathJax.Hub.Config({
       jax: ["input/TeX", "output/HTML-CSS"],
@@ -20,13 +19,7 @@ Error connecting to database<!DOCTYPE html>
       "HTML-CSS": { availableFonts: ["TeX"] }
    });
 </script>
-<!--[if !IE]><!-->
-<script type="text/javascript" src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML-full,Safe"></script>
-<!--<![endif]-->
-<!--[if IE]>
-<script type="text/javascript" src="//cdn.mathjax.org/mathjax/2.4-latest/MathJax.js?config=TeX-AMS_HTML-full,Safe"></script>
-<![endif]-->
-</head>
+<script async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS_HTML-full,Safe"></script></head>
 
 <body>
 <div id="container">
@@ -45,12 +38,14 @@ Error connecting to database<!DOCTYPE html>
 <div id="logo" class="noprint">
    <div>Project Euler<span>.net</span></div>
 </div>
+
 </div>
 
-<div id="info_panel"><a href="rss2_euler.xml"><img src="images/icon_rss.png" alt="RSS Feed" title="RSS Feed" /></a><span class="info" style="cursor:pointer;"><a href="secure=6edzFuqwSJR27tGe"><img src="images/icon_lock.png" alt="secure_icon" /></a><span style="color:#070;font-weight:bold;text-align:left;width:250px;right:10px;">You are currently using a secure connection</span></span></div>
+<div id="info_panel"><a href="search"><img src="images/icon_search.png" alt="Search Problems" title="Search Problems" /></a><a href="rss2_euler.xml"><img src="images/icon_rss.png" alt="RSS Feed" title="RSS Feed" /></a></div>
 <div id="content">
+
 <div style="text-align:center;" class="print"><img src="images/print_page_logo.png" alt="projecteuler.net" style="border:none;" /></div>
-<h2>Diophantine reciprocals II</h2><div id="problem_info" class="info"><h3>Problem 110</h3><span>Published on Friday, 2nd December 2005, 06:00 pm; Solved by 5872; Difficulty rating: 40%</span></div>
+<h2>Diophantine reciprocals II</h2><div id="problem_info"><h3>Problem 110 <span style="float:right;" class="info noprint"><img src="images/icon_info.png" style="width:18px;opacity:0.7;" /><span style="left:-400px;width:450px;font-size:80%;">Published on Friday, 2nd December 2005, 06:00 pm; Solved by 6557;<br />Difficulty rating: 40%</span></h3></div>
 <div class="problem_content" role="problem">
 <p>In the following equation <var>x</var>, <var>y</var>, and <var>n</var> are positive integers.</p>
 <div style="text-align:center;">
